@@ -1,5 +1,5 @@
 # SmartBartender
-Smart Bartender project for Embedded Systems Class. This is an ECE 4180 project by  Michael Chan, and Ransom Conant, Pratik Kunapuli, and Vineet Nadela
+Smart Bartender project for Embedded Systems Class. This is an ECE 4180 project by  Michael Chan, Ransom Conant, Pratik Kunapuli, and Vineet Nadella
 
 ## Project Description
 
