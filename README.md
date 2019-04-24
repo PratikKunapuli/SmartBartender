@@ -1,5 +1,5 @@
 # SmartBartender
-Smart Bartender project for Embedded Systems Class. This is an ECE 4180 project by  Michael Chan, and Ransom Conant, Pratik Kunapuli, and Vineet Nadela
+Smart Bartender project for Embedded Systems Class. This is an ECE 4180 project by  Michael Chan, Ransom Conant, Pratik Kunapuli, and Vineet Nadela
 
 ## Project Description
 
@@ -22,7 +22,7 @@ Example electrical schematic:
 [Electronics](Images/Electronics.png)
 
 ## Hardware 
-Wood paneling was used to enclose the device, creating a box that contains a spot for a cup to be placed underneath the funnel. The 6 pumps are mounted on the back of the device, so that the drinks can be outside of the device, with plenty of tubing going from the pump to the drink. The other side of the pump's tubung is routed through the top of the device and leads into the aformentioned funnel, above the empty  cup. Underneath the platform where the cup sits, all of the electronics are mounted in a hidden compartment. The AC-DC converted, breadboard, voltage regulator, Raspberry Pi and MOSFET breakout boards are all contained within this space.
+Wood paneling was used to enclose the device, creating a box that contains a spot for a cup to be placed underneath the funnel. The 6 pumps are mounted on the back of the device, so that the drinks can be outside of the device, with plenty of tubing going from the pump to the drink. The other side of the pump's tubing is routed through the top of the device and leads into the aformentioned funnel, above the empty  cup. Underneath the platform where the cup sits, all of the electronics are mounted in a hidden compartment. The AC-DC converted, breadboard, voltage regulator, Raspberry Pi and MOSFET breakout boards are all contained within this space.
 
 ## Code
 The code is entirely contained within the `bartender.py` file. Future work includes adding Amazon Alexa support to be able to request a drink via voice from anywhere. A picture of the GUI is shown below.
