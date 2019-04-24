@@ -8,12 +8,15 @@ This project is a smart bartender using a raspberry pi and DC peristaltic pumps 
 ## Hardware Needed
 - Raspberry Pi 3
 - Parastaltic Pumps (6)
-- MOSFET Breakout Boards (6)
+- MOSFET Breakout Boards (6) [Link](https://www.sparkfun.com/products/12959)
 - AC-DC Converter
 - DC Voltage Regulator
 - LCD Touchscreen
 
 ## Electrical Schematic
 Example electrical schematic:
-[schmatic](Electrical Schematic.png)
+[schmatic]
+(https://github.com/PratikKunapuli/SmartBartender/blob/master/Electrical%20Schematic.png)
+
+## Hardware 
 
