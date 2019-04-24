@@ -14,4 +14,6 @@ This project is a smart bartender using a raspberry pi and DC peristaltic pumps 
 - LCD Touchscreen
 
 ## Electrical Schematic
-[Imgur](https://i.imgur.com/WjrmI6Y.png)
+Example electrical schematic:
+![Imgur]
+(https://i.imgur.com/WjrmI6Y.png)
