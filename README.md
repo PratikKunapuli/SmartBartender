@@ -1,6 +1,7 @@
 # Smart Drink Dispenser
 Smart Drink Dispenser project for Embedded Systems Class. This is an ECE 4180 project by  Michael Chan, Ransom Conant, Pratik Kunapuli, and Vineet Nadella
 
+[Video](https://drive.google.com/file/d/1h0J8PITRjtYM9t8H9RYf7_4x0Liw44gI/view)
 
 ## Project Description
 
